@@ -12,7 +12,7 @@ The decision to use C was made to speed up development time.
 
 ## How do I play it?
 
-Download the runner.nes rom file. Open it with your NES emulator of choice and enjoy! ([FCEUX](https://fceux.com/web/home.html) and [Nestopia UE](http://0ldsk00l.ca/nestopia/) are both good emulators if you're new to this.)
+Download the [runner.nes rom file](https://github.com/kylejmacfarland/runner/releases/tag/0.1.0). Open it with your NES emulator of choice and enjoy! ([FCEUX](https://fceux.com/web/home.html) and [Nestopia UE](http://0ldsk00l.ca/nestopia/) are both good emulators if you're new to this.)
 
 
 ## License
